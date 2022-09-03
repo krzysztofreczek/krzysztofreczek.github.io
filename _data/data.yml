@@ -133,7 +133,10 @@ skills:
 
     toolset:
       - name: Clean Architecture
-        level: 100%
+        level: 95%
+
+      - name: CI/CD
+        level: 95%
 
       - name: Go
         level: 90%
@@ -156,5 +159,5 @@ skills:
       - name: Docker | Kubernetes
         level: 60%
 
-      - name: Cloud
+      - name: Cloud | Distributed Architecture
         level: 60%
