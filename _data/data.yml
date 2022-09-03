@@ -15,7 +15,7 @@ sidebar:
     email: reczek.krzysztof@gmail.com
     phone:
     timezone:
-    citizenship:
+    citizenship: Polish
     website:
     linkedin: krzysztof-reczek
     xing: 
@@ -72,30 +72,43 @@ experiences:
             * software development leader working with Clean-Architecture, DDD, Agile methodologies
             * highly involved in a solution design process collaborating closely with product stakeholders
             * open-source contributor
+
           Architectures: **Microservices**, **Event-Driven**, **Cloud**
+          
           Technologies: **Go**, **Kuberneteres**, **Docker**, **GCP**, **Firestore**, **MySQL**
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Software Developer Lead
+        time: January 2016 - May 2018
+        company: UBS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Responsible for architectural design, implementation, testing, maintenance, and deployment of internal enterprise applications. Technical leader of the development team and scrum master.
+
+          Architectures: **Microservices**, **SOA**, **Monolithic**.
+
+          Technologies: **Java**, **Spring Framework**, **JS**, **AngularJS**, **Apache Solr**, **Oracle DB**, **Jenkins**, **Tomcat**
+      - role: Software Developer
+        time: December 2014 - January 2016
+        company: Comarch
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Responsible for implementation, testing, and deployment of the new features for the cloud-based backup and file synchronization service.
+
+          Technologies: **Java**, **Spring Framework**, **C#**, **.NET 3.5+**, **PostgreSQL**, **MongoDB**
+      - role: Lead Industrial Automation Software Engineer
+        time: June 2013 - December 2014
+        company: teamtechnik Group
+        details: |
+          Responsible for implementation, testing, deployment, and commissioning of full stack software applications (low-level automation as well as auxiliary high-level applications) of assembly and testing lines for the automotive industry. Responsible for the technical leading of project-oriented international teams. Accomplished several projects in Poland, China, and Germany.
+
+          Technologies: **C#**, **.NET 3.5+**, **Oracle DB**, **Siemens Simatic S7**
+      - role: Industrial Automation Software Engineer
+        time: April 2013 - June 2013
+        company: teamtechnik Group
+        details: |
+          Responsible for implementation, testing, and commissioning of low-level automation systems of assembly and testing lines for the automotive industry.
+      - role: Industrial Automation Software Engineer
+        time: March 2012 – April 2013
+        company: Siemens
+        details: |
+          Responsible for implementation, testing, and commissioning of low-level automation systems of hot steel rolling mills. Accomplished several projects in Poland, Germany, and Turkey.
 projects:
     title: Projects
     assignments:
