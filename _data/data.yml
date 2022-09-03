@@ -76,7 +76,7 @@ experiences:
 
           Architectures: **Microservices**, **Event-Driven**, **Cloud**
           
-          Technologies: **Go**, **Kuberneteres**, **Docker**, **GCP**, **Firestore**, **MySQL**
+          Technologies: **Go**, **Kubernetes**, **Docker**, **GCP**, **Firestore**, **MySQL**
       - role: Software Developer Lead
         time: January 2016 - May 2018
         company: UBS
