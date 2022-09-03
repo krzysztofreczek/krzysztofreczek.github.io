@@ -100,6 +100,7 @@ experiences:
         details: |
           Responsible for implementation, testing, deployment, and commissioning of full stack software applications (low-level automation as well as auxiliary high-level applications) of assembly and testing lines for the automotive industry.
           Responsible for the technical leading of project-oriented international teams. 
+          
           Accomplished several projects in Poland, China, and Germany.
 
           Technologies: **C#**, **.NET 3.5+**, **Oracle DB**, **Siemens Simatic S7**
@@ -113,6 +114,7 @@ experiences:
         company: Siemens
         details: |
           Responsible for implementation, testing, and commissioning of low-level automation systems of hot steel rolling mills. 
+          
           Accomplished several projects in Poland, Germany, and Turkey.
 projects:
     title: Projects
