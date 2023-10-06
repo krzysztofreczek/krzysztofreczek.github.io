@@ -17,7 +17,7 @@ sidebar:
     timezone:
     citizenship: Cracow, Poland
     website:
-    linkedin: krzysztof-reczek
+    linkedin:
     xing: 
     github: krzysztofreczek
     telegram: # add your nickname without '@' sign
@@ -44,10 +44,7 @@ sidebar:
         - item: Drums and Music Production
           link:
 
-        - item: Skateboarding
-          link:
-
-        - item: Hiking
+        - item: Skateboarding, Cycling & Hiking
           link:
 
 career-profile:
@@ -119,12 +116,15 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: go-structurizr
-        link: "https://github.com/krzysztofreczek/go-structurizr"
-        tagline: "An open-source library for auto-generating C4 diagrams from Golang applications."
+      - title: GetHarley
+        link: "https://www.getharley.com/"
+        tagline: "The first telehealth platform connecting individuals to experienced clinicians for a personalised discovery of products and treatments."
       - title: KARHOO
         link: "https://karhoo.com"
         tagline: "A leading technology platform that enables commercial partners to offer ground transportation services worldwide."
+      - title: go-structurizr
+        link: "https://github.com/krzysztofreczek/go-structurizr"
+        tagline: "An open-source library for auto-generating C4 diagrams from Golang applications."
       - title: Sabre NGP
         tagline: "A modern cloud-based application infrastructure focused on a high performance and development experience."
 
@@ -132,6 +132,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+
       - name: Clean Architecture
         level: 95%
 
