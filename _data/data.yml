@@ -41,17 +41,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Drums and Music Production
+        - item: Skateboarding, Cycling & Hiking
           link:
 
-        - item: Skateboarding, Cycling & Hiking
+        - item: Music Production
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced software engineer and programming enthusiast with rich experience in programming low- and high-level software applications. 
-      Currently focused on Go, containerized, scalable, and event-driven microservices, DDD, and cloud.
+      I am an experienced software engineer and programming enthusiast with a wealth of experience in developing both low- and high-level software applications.
+      Currently, I specialize in Go, containerized microservices, scalable architectures, event-driven systems, DDD, and cloud technologies. Recently, I have begun exploring the practical business applications of modern AI solutions.
 education:
     title: Education
     info:
@@ -65,23 +65,19 @@ experiences:
         time: May 2018 - Present
         company: Self-Employed [B2B]
         details: |
-          Working as a contractor in multiple projects at positions of *Senior* or *Tech Lead* Software Engineer covering the following responsibilities:
-            * design and development of modern applications based on containerized, event-driven microservices, cloud- and scale-ready
-            * software development leader working with Clean-Architecture, DDD, Agile methodologies
-            * highly involved in a solution design process collaborating closely with product stakeholders
-            * open-source contributor
-
-          Architectures: **Microservices**, **Event-Driven**, **Cloud**
+          I have been working as a contractor on multiple projects in roles such as Senior or Tech Lead Software Engineer, undertaking the following responsibilities:
+            * Designing and developing modern applications based on containerized, event-driven microservices, prepared for cloud scalability.
+            * Leading software development initiatives with a focus on Clean Architecture, DDD, and Agile methodologies.
+            * Close collaboration with product stakeholders to design effective solutions.
+            * Contributing to open-source projects.
           
-          Technologies: **Go**, **Kubernetes**, **Docker**, **GCP**, **Firestore**, **MySQL**
+          Technologies: **Go**, **Kubernetes**, **Docker**, **GCP**, **Firestore**, **PostgreSQL**, **Microservices**, **Event-Driven**, **Cloud**
       - role: Software Developer Lead
         time: January 2016 - May 2018
         company: UBS
         details: |
           Responsible for architectural design, implementation, testing, maintenance, and deployment of internal enterprise applications. 
           Technical leader of the development team and scrum master.
-
-          Architectures: **Microservices**, **SOA**, **Monolithic**.
 
           Technologies: **Java**, **Spring Framework**, **JS**, **AngularJS**, **Apache Solr**, **Oracle DB**, **Jenkins**, **Tomcat**
       - role: Software Developer
@@ -116,8 +112,11 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: .truespace
+        link: "https://truespace.app"
+        tagline: "A platform offering users access to sophisticated internet profiling and modern AI capabilities for personal growth."
       - title: GetHarley
-        link: "https://www.getharley.com/"
+        link: "https://www.getharley.com"
         tagline: "The first telehealth platform connecting individuals to experienced clinicians for a personalised discovery of products and treatments."
       - title: KARHOO
         link: "https://karhoo.com"
@@ -133,29 +132,29 @@ skills:
 
     toolset:
 
+      - name: Go &amp; Backend
+        level: 95%
+
       - name: Clean Architecture
         level: 95%
 
       - name: CI/CD
         level: 95%
 
-      - name: Go
-        level: 90%
-
-      - name: Java | Spring Framework
+      - name: Contenerized Microservices
         level: 85%
 
-      - name: DDD
-        level: 75%
-
-      - name: Microservices
-        level: 75%
-
       - name: Event-Driven
-        level: 75%
+        level: 85%
 
       - name: Eventsourcing
-        level: 70%
+        level: 75%
+
+      - name: SQL &amp; Relational databases
+        level: 75%
+
+      - name: Domain-Driven Design (DDD)
+        level: 75%
 
       - name: Docker | Kubernetes
         level: 60%
