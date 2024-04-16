@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Krzysztof Reczek
-    tagline: Experienced Software Engineer
+    tagline: Experienced Backend Software Engineer
     avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     timezone:
     citizenship: Cracow, Poland
     website:
-    linkedin:
+    linkedin: https://www.linkedin.com/in/krzysztof-reczek-898203302
     xing: 
     github: krzysztofreczek
     telegram: # add your nickname without '@' sign
@@ -66,12 +66,13 @@ experiences:
         company: Self-Employed [B2B]
         details: |
           I have been working as a contractor on multiple projects in roles such as Senior or Tech Lead Software Engineer, undertaking the following responsibilities:
-            * Designing and developing modern applications based on containerized, event-driven microservices, prepared for cloud scalability.
-            * Leading software development initiatives with a focus on Clean Architecture, DDD, and Agile methodologies.
-            * Close collaboration with product stakeholders to design effective solutions.
-            * Contributing to open-source projects.
+            *  Designing and developing modern applications based on containerized, event-driven microservices, prepared for cloud scalability.
+            *  Collaborating closely with product stakeholders to design effective, adequate, and problem-oriented solutions.
+            *  Leading software development initiatives with a focus on Clean Architecture, Domain-Driven Design (DDD), and Agile methodologies.
+            *  Paying special attention to team culture by ensuring open and mature communication and psychological safety.
+            *  Contributing to open-source projects.
           
-          Technologies: **Go**, **Kubernetes**, **Docker**, **GCP**, **Firestore**, **PostgreSQL**, **Microservices**, **Event-Driven**, **Cloud**
+          Technologies: **Go**, **Microservices**, **Event-Driven**, **Eventsourcing**, **Cloud**, **Docker**, **GCP**, **Firestore**, **PostgreSQL**, **NoSQL**, and more... 
       - role: Software Developer Lead
         time: January 2016 - May 2018
         company: UBS
