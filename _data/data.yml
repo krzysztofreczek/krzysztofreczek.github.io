@@ -62,6 +62,15 @@ experiences:
     title: Experiences
     info:
       - role: Software Engineer
+        time: September 2025 - Present
+        company: Cast AI
+        details: |
+          Contributing across the entire product lifecycle, including product discovery, customer POCs, solution design, backend development, testing, and production deployment. 
+          Designing and implementing distributed, event-driven microservices for the AI Enabler platform, which provides a range of services for multi-cloud OOS LLM routing, self-hosted deployments, and primarily cost optimization. 
+          Building high-performance backend services in Go integrated with Kubernetes, PostgreSQL, and cloud-native tooling. 
+          Developing scalable infrastructure and deployment workflows across AWS, GCP, and Azure, ensuring reliability, observability, and efficiency in production environments.
+
+      - role: Software Engineer
         time: May 2018 - Present
         company: Self-Employed [B2B]
         details: |
@@ -113,6 +122,9 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: AI Enabler by Cast AI
+        link: "https://enabler.cast.ai"
+        tagline: "A platform that simplifies and optimizes Large Language Model (LLM) deployment and routing for cost- and performance-efficient AI applications."
       - title: .truespace
         link: "https://truespace.app"
         tagline: "A platform offering users access to sophisticated internet profiling and modern AI capabilities for personal growth."
