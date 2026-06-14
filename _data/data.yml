@@ -1,15 +1,11 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False 
+    education: True 
 
     # Profile information
     name: Krzysztof Reczek
     tagline: Experienced Backend Software Engineer
-    avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.png  
 
     # Sidebar links
     email: reczek.krzysztof@gmail.com
@@ -20,13 +16,13 @@ sidebar:
     linkedin: krzysztof-reczek-898203302
     xing: 
     github: krzysztofreczek
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
     twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
     pdf: https://krzysztofreczek.github.io/print
 
     languages:
@@ -51,7 +47,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am an experienced software engineer and programming enthusiast with a wealth of experience in developing both low- and high-level software applications.
-      Currently, I specialize in Go, containerized microservices, scalable architectures, event-driven systems, DDD, and cloud technologies. Recently, I have begun exploring the practical business applications of modern AI solutions.
+      Currently, I specialize in Go, containerized microservices, scalable architectures, event-driven systems, DDD, and cloud technologies. Recently, I have focused heavily on building open-source developer tooling and the practical business applications of modern, multi-model AI orchestration solutions.
 education:
     title: Education
     info:
@@ -65,63 +61,64 @@ experiences:
         time: September 2025 - Present
         company: Cast AI
         details: |
-          Contributing across the entire product lifecycle, including product discovery, customer POCs, solution design, backend development, testing, and production deployment. 
-          Designing and implementing distributed, event-driven microservices for the AI Enabler platform, which provides a range of services for multi-cloud OOS LLM routing, self-hosted deployments, and primarily cost optimization. 
-          Building high-performance backend services in Go integrated with Kubernetes, PostgreSQL, and cloud-native tooling. 
-          Developing scalable infrastructure and deployment workflows across AWS, GCP, and Azure, ensuring reliability, observability, and efficiency in production environments.
+          Contributing across the entire product lifecycle, including product discovery, solution design, backend development, testing, and production deployment for cutting-edge AI infrastructure.
+          Core contributor to **Kimchi.dev**, an open-source terminal coding agent CLI and multi-model AI orchestration/inference platform. Designing and developing high-performance terminal workflows, session management systems, and intelligent multi-model routing engines.
+          Designing and implementing distributed, event-driven microservices for the AI Enabler platform, providing scalable services for multi-cloud OSS LLM routing, self-hosted deployments, and automated cloud cost optimization.
+          Building high-performance backend services in Go tightly integrated with Kubernetes, PostgreSQL, OTLP telemetry/observability stacks, and cloud-native tooling across AWS, GCP, and Azure.
 
       - role: Software Engineer
         time: May 2018 - Present
         company: Self-Employed [B2B]
         details: |
-          I have been working as a contractor on multiple projects in roles such as Senior or Tech Lead Software Engineer, undertaking the following responsibilities:
-            *  Designing and developing modern applications based on containerized, event-driven microservices, prepared for cloud scalability.
-            *  Collaborating closely with product stakeholders to design effective, adequate, and problem-oriented solutions.
-            *  Leading software development initiatives with a focus on Clean Architecture, Domain-Driven Design (DDD), and Agile methodologies.
-            *  Paying special attention to team culture by ensuring open communication and psychological safety.
-            *  Contributing to open-source projects.
+          Worked as a senior contractor and Tech Lead on multiple cloud-scale software projects, delivering high-availability solutions:
+            *  Designing and developing production-ready applications based on containerized, event-driven microservices built for high-throughput cloud scalability.
+            *  Collaborating closely with product stakeholders to translate abstract business goals into effective, adequate, and problem-oriented technical designs.
+            *  Leading engineering initiatives with a strict focus on Clean Architecture, Domain-Driven Design (DDD), and automated testing.
+            *  Fostering a healthy engineering culture centered on open communication, continuous code quality, and psychological safety.
+            *  Actively contributing to open-source software and tools.
           
           Technologies: **Go**, **Microservices**, **Event-Driven**, **Eventsourcing**, **Cloud**, **Docker**, **GCP**, **Firestore**, **PostgreSQL**, **NoSQL**, and more... 
       - role: Software Developer Lead
         time: January 2016 - May 2018
         company: UBS
         details: |
-          Responsible for architectural design, implementation, testing, maintenance, and deployment of internal enterprise applications. 
-          Technical leader of the development team and scrum master.
+          Responsible for the architectural design, implementation, testing, maintenance, and automated deployment of high-compliance internal enterprise applications. 
+          Served as the technical leader of the development team and Scrum Master, driving engineering excellence and agile delivery.
 
           Technologies: **Java**, **Spring Framework**, **JS**, **AngularJS**, **Apache Solr**, **Oracle DB**, **Jenkins**, **Tomcat**
       - role: Software Developer
         time: December 2014 - January 2016
         company: Comarch
         details: |
-          Responsible for implementation, testing, and deployment of the new features for the cloud-based backup and file synchronization service.
+          Responsible for the full-cycle implementation, automated testing, and zero-downtime deployment of new features for a high-scale, cloud-based backup and file synchronization service.
 
           Technologies: **Java**, **Spring Framework**, **C#**, **.NET 3.5+**, **PostgreSQL**, **MongoDB**
       - role: Lead Industrial Automation Software Engineer
         time: June 2013 - December 2014
         company: teamtechnik Group
         details: |
-          Responsible for implementation, testing, deployment, and commissioning of full stack software applications (low-level automation as well as auxiliary high-level applications) of assembly and testing lines for the automotive industry.
-          Responsible for the technical leading of project-oriented international teams. 
-          
-          Accomplished several projects in Poland, China, and Germany.
+          Led the implementation, testing, deployment, and on-site commissioning of full-stack mission-critical software systems (spanning low-level real-time automation to high-level auxiliary applications) for automotive assembly lines.
+          Responsible for the technical leadership and execution management of project-oriented international engineering teams. 
+          Successfully delivered high-budget projects across Poland, China, and Germany.
 
           Technologies: **C#**, **.NET 3.5+**, **Oracle DB**, **Siemens Simatic S7**
       - role: Industrial Automation Software Engineer
         time: April 2013 - June 2013
         company: teamtechnik Group
         details: |
-          Responsible for implementation, testing, and commissioning of low-level automation systems of assembly and testing lines for the automotive industry.
+          Responsible for the implementation, rigorous testing, and commissioning of low-level, real-time automation software architectures for automotive testing and assembly infrastructure.
       - role: Industrial Automation Software Engineer
         time: March 2012 – April 2013
         company: Siemens
         details: |
-          Responsible for implementation, testing, and commissioning of low-level automation systems of hot steel rolling mills. 
-          
-          Accomplished several projects in Poland, Germany, and Turkey.
+          Responsible for software development, robust integration testing, and on-site commissioning of industrial automation systems controlling high-temperature hot steel rolling mills. 
+          Successfully deployed multi-million dollar engineering projects in Poland, Germany, and Turkey.
 projects:
     title: Projects
     assignments:
+      - title: Kimchi.dev
+        link: "https://kimchi.dev"
+        tagline: "An open-source AI coding agent CLI and inference layer that orchestrates frontier models by task type and cost, running on CAST AI infrastructure."
       - title: AI Enabler by Cast AI
         link: "https://enabler.cast.ai"
         tagline: "A platform that simplifies and optimizes Large Language Model (LLM) deployment and routing for cost- and performance-efficient AI applications."
@@ -136,41 +133,41 @@ projects:
         tagline: "A leading technology platform that enables commercial partners to offer ground transportation services worldwide."
       - title: go-structurizr
         link: "https://github.com/krzysztofreczek/go-structurizr"
-        tagline: "An open-source library for auto-generating C4 diagrams from Golang applications."
+        tagline: "An open-source library for auto-generating C4 software architecture diagrams directly from Golang source code."
       - title: Sabre NGP
-        tagline: "A modern cloud-based application infrastructure focused on a high performance and development experience."
+        tagline: "A modern, cloud-native application infrastructure built for ultra-high performance and a frictionless developer experience."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
 
-      - name: Go &amp; Backend
+      - name: Go & Backend Engineering
         level: 95%
 
       - name: Clean Architecture
         level: 95%
 
-      - name: CI/CD
+      - name: CI/CD & Devops Pipelines
         level: 95%
 
-      - name: Contenerized Microservices
+      - name: Containerized Microservices
         level: 85%
 
-      - name: Event-Driven
+      - name: Event-Driven Architectures
         level: 85%
 
       - name: Eventsourcing
         level: 75%
 
-      - name: SQL &amp; Relational databases
+      - name: SQL & Relational Databases
         level: 75%
 
       - name: Domain-Driven Design (DDD)
         level: 75%
 
-      - name: Docker | Kubernetes
-        level: 60%
+      - name: Docker & Kubernetes
+        level: 70%
 
-      - name: Cloud | Distributed Architecture
-        level: 60%
+      - name: Cloud & Distributed Systems
+        level: 70%
